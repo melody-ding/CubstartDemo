@@ -2,3 +2,4 @@ Apples
 Carrots
 Hummus
 Pretzels
+Pears
